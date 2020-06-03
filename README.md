@@ -11,7 +11,7 @@ This matlab application has created to see how RGB color combination works
 - [*Download Windows Executable file 1*](https://github.com/DarshanaUOP/RGB/blob/master/Untitled2/src/Untitled2.exe) and its [*readme.txt*](https://github.com/DarshanaUOP/RGB/blob/master/Untitled2/src/readme.txt)
 
 **The main UI**  <br>
-<img src = "images/RGB UI.JPG" height = 250> 
+<img src = "images/RGB UI.JPG" widtg = 100%> 
 
 This main UI shows that there are 3 slidebars and you can change them and make various color mixtures such as following figure <br>
 <img src = "images/RGB UI 2.JPG" height = 250> <br>

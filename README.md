@@ -10,6 +10,8 @@ This matlab application has created to see how RGB color combination works
 - [*Download Windows Executable file 1*](https://github.com/DarshanaUOP/RGB/blob/master/RGB/src/RGB.exe) and its [*readme.txt*](https://github.com/DarshanaUOP/RGB/blob/master/RGB/src/readme.txt)
 - [*Download Windows Executable file 1*](https://github.com/DarshanaUOP/RGB/blob/master/Untitled2/src/Untitled2.exe) and its [*readme.txt*](https://github.com/DarshanaUOP/RGB/blob/master/Untitled2/src/readme.txt)
 
+[more details](http://gotoabszero.000webhostapp.com/view.php?project_id=4) on my [website](http://gotoabszero.000webhostapp.com)
+
 **The main UI**  <br>
 <img src = "images/RGB UI.JPG" width = "100%"> 
 
